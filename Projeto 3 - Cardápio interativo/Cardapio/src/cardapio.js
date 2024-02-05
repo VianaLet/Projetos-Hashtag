@@ -14,7 +14,7 @@ import cocaColaImg from './assets/bebidas/coca-cola.jpeg';
 import guaranaImg from './assets/bebidas/guarana.jpeg';
 import heinekenImg from './assets/bebidas/heineken.jpeg';
 
-export const enroladinhoMignon = {
+const enroladinhoMignon = {
   nome: 'Enroladinho de Mignon',
   preco: 'R$ 64,90',
   imagem: enroladinhoMignonImg,
@@ -112,3 +112,4 @@ export const pratosPrincipais = [
 export const sobremesas = [brownie, cocadaForno, petitGateau];
 
 export const bebidas = [aguaSemGas, aguaComGas, cocaCola, guarana, heineken];
+//
